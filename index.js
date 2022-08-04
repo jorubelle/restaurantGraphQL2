@@ -8,7 +8,7 @@ var restaurants = [
     id: 1,
     name: "WoodsHill ",
     description:
-      "American cuisine, farm to table, with fresh produce every day",
+      "American cuisine, farm to table, with fresh produce every day!",
     dishes: [
       {
         name: "Swordfish grill",
